@@ -1,9 +1,17 @@
 # HỆ THỐNG QUẢN LÝ NHÀ HÀNG
-# Lời cảm ơn
-# Giới thiệu đồ án
+## Lời cảm ơn
+## Giới thiệu đồ án
+
 # Mục tiêu của đề tài
 # Nhóm thực hiện
+| MSSV | Họ tên | Đánh giá|
+|-------|-------|-------|
+| 22521395| Trịnh Xuân Thiện | 100% |
+|  | Lý Huỳnh Ngọc Trung | 100% |
+| 22521395| Trịnh Xuân Thiện | 100% |
+|  | Lý Huỳnh Ngọc Trung | 100% |
 # Mô hình ERD
+![Đây là một hình ảnh]("C:\Users\84889\Downloads\ERD_3.png")
 # Chức năng chính trong ứng dụng
 # Demo sản phẩm
 # Ngôn ngữ, công nghệ sử dụng
