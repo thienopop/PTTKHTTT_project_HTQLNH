@@ -87,5 +87,5 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 # Hướng dẫn cài đặt chương trình
 # Tài liệu tham khảo
 - [Java UI Design - Dashboard Desktop Application](https://github.com/DJ-Raven/java-ui-dashboard-008))
-- [Java UI Design - Dashboard Desktop Application](https://github.com/NHViet03/Java_Project_RestaurantMS))
+- [Java_Project_RestaurantMS](https://github.com/NHViet03/Java_Project_RestaurantMS))
 
