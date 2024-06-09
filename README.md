@@ -1,4 +1,5 @@
 # HỆ THỐNG QUẢN LÝ NHÀ HÀNG
+![hình ảnh](images/home1.png)
 ## Lời cảm ơn
 ## Giới thiệu đồ án
 
@@ -12,7 +13,7 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 |  | Nguyễn Văn Thái Mạnh | 100% |
 |  | Nguyễn Đăng Khoa | 100% |
 # Mô hình ERD
-![Đây là một hình ảnh](images/home1.png)
+![Đây là một hình ảnh](images/draw.io.png)
 # Chức năng chính trong ứng dụng
 > * Đăng nhập
 > * Đăng ký tài khoản
