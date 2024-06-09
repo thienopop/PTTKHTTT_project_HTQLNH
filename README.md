@@ -26,11 +26,11 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 
 >* Đăng Ký
 
-![SignUp](./src/Demo/SignUp.png)
+![SignUp](image/signup.png)
 
 >* Đăng Nhập
 
-![SignIn](./src/Demo/SignIn.png)
+![SignIn](image/login.png)
 >* Giao diện chính
 
 ![Home](images/home.png)  
@@ -69,7 +69,16 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 ![Statistic món ăn](images/tkmonan.png)  
 
 # Ngôn ngữ, công nghệ sử dụng
+>*  Công cụ vẽ sơ đồ và phân tích thiết kế: draw.io, StarUML, visual paradigm
+>*	Công cụ quản lý CSDL: Oracle
+>*	Công cụ xây dựng ứng dụng: NetBeans, Visual Studio Code.
+>*	Framework: java swing
+>*	Các thư viện hỗ trợ:
+
 # Yêu cầu cài đặt
 # Hướng dẫn cài đặt chương trình
 # Tài liệu tham khảo
+ - [Java Swing UI Design - Register and Verify Code With Email](https://github.com/DJ-Raven/java-swing-login-ui-001)
+ - [Java Swing UI Design - School Management Dashboard](https://github.com/DJ-Raven/java-swing-school-management-dashboard)
+ - [Java UI Design - Dashboard Desktop Application](https://github.com/DJ-Raven/java-ui-dashboard-008)
 
