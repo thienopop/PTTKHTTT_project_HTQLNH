@@ -31,10 +31,10 @@ o	Xóa các khách hàng
 o	Cập nhật thông tin cho khách hàng
 ### Quản lý thực đơn
 o	Thêm món ăn vào thực đơn, xóa sửa thông tin món ăn
-## Quản lý kho
-o	Nhập, xuất nguyên liệu vào kho
-o	Thanh toán phiếu nhập xuất
-o	Hiển thị danh sách nguyên liệu trong kho
+### Quản lý kho
+-o	Nhập, xuất nguyên liệu vào kho
+-o	Thanh toán phiếu nhập xuất
+-o	Hiển thị danh sách nguyên liệu trong kho
 ### Báo cáo thông kê
 o	Thống kê doanh thu theo tháng năm
 o	Thống kê các món ăn bán chạy
