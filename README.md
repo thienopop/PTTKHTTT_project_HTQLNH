@@ -12,7 +12,7 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 |  | Nguyễn Văn Thái Mạnh | 100% |
 |  | Nguyễn Đăng Khoa | 100% |
 # Mô hình ERD
-![Đây là một hình ảnh](images/ẻd.drawio.png)
+![Đây là một hình ảnh](images/home1.png)
 # Chức năng chính trong ứng dụng
 > * Đăng nhập
 > * Đăng ký tài khoản
