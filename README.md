@@ -77,12 +77,12 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 >* ­Công cụ vẽ sơ đồ phân tích và thiết kế dữ liệu: StarUML, draw.io, visual paradigm
 
 # Yêu cầu cài đặt
-<* JDK 21
-<* ojdbc11.jar
-<* javax.mail.jar
-<* activation.jar
-<* jfreechart.jar
-<* jcommon-1.0.23.jar
+>* JDK 21
+>* ojdbc11.jar
+>* javax.mail.jar
+>* activation.jar
+>* jfreechart.jar
+>* jcommon-1.0.23.jar
 # Hướng dẫn cài đặt chương trình
 # Tài liệu tham khảo
  - [Java Swing UI Design - Register and Verify Code With Email](https://github.com/DJ-Raven/java-swing-login-ui-001)
