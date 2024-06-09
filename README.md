@@ -69,13 +69,20 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 ![Statistic món ăn](images/tkmonan.png)  
 
 # Ngôn ngữ, công nghệ sử dụng
->*  Công cụ vẽ sơ đồ và phân tích thiết kế: draw.io, StarUML, visual paradigm
->*	Công cụ quản lý CSDL: Oracle
+>*	Ngôn ngữ sử dụng: Java
 >*	Công cụ xây dựng ứng dụng: NetBeans, Visual Studio Code.
->*	Framework: java swing
->*	Các thư viện hỗ trợ:
+>* Công cụ lập trình giao diện: JavaSwing
+>* Cơ sở dữ liệu: Oracle
+>* Các thư viện hỗ trợ: javax.mail.jar, activation.jar , jfreechart.jar, jcommon-1.0.23.jar, ojdbc11.jar
+>* ­Công cụ vẽ sơ đồ phân tích và thiết kế dữ liệu: StarUML, draw.io, visual paradigm
 
 # Yêu cầu cài đặt
+<* JDK 21
+<* ojdbc11.jar
+<* javax.mail.jar
+<* activation.jar
+<* jfreechart.jar
+<* jcommon-1.0.23.jar
 # Hướng dẫn cài đặt chương trình
 # Tài liệu tham khảo
  - [Java Swing UI Design - Register and Verify Code With Email](https://github.com/DJ-Raven/java-swing-login-ui-001)
