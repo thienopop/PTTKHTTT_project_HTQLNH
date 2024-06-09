@@ -26,11 +26,11 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 
 >* Đăng Ký
 
-![SignUp](image/signup.png)
+![SignUp](images/singup.png)
 
 >* Đăng Nhập
 
-![SignIn](image/login.png)
+![SignIn](images/login.png)
 >* Giao diện chính
 
 ![Home](images/home.png)  
