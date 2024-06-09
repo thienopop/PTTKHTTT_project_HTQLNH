@@ -85,6 +85,13 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 >* jfreechart.jar
 >* jcommon-1.0.23.jar
 # Hướng dẫn cài đặt chương trình
+>* Bước 1 : Clone project PTTKHTTT_project_HTQLNH
+>*Bước 2 : Vào Netbeans chọn Open project và mở project vừa clone về
+>*Bước 3 : Thêm tất cả các thư viện cần thiết trong mục src/thuvien
+>*Bước 4 :Trong src/database có file database.sql. Vào oracle tạo user mới với username là doan
+Và password là 123 ,sau đó chạy toàn bộ file database.sql
+>*Bước 5 : Tiến hành chạy run file src/view2/Login để chạy chương trình với tài khoản : doan@gmail.com mật khẩu 123456
+
 # Tài liệu tham khảo
 - [Java UI Design - Dashboard Desktop Application](https://github.com/DJ-Raven/java-ui-dashboard-008))
 - [Java_Project_RestaurantMS](https://github.com/NHViet03/Java_Project_RestaurantMS))
