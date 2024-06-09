@@ -23,6 +23,51 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 > * Quản lý kho
 > * Báo cáo thông kê
 # Demo sản phẩm
+
+>* Đăng Ký
+
+![SignUp](./src/Demo/SignUp.png)
+
+>* Đăng Nhập
+
+![SignIn](./src/Demo/SignIn.png)
+>* Giao diện chính
+
+![Home](./src/Demo/Admin/Manage_Food.png)  
+
+>* Quản lý nhân viên
+
+![Nhân viên](./src/Demo/Admin/Manage_Food.png)  
+>* Quản lý khách hàng
+
+![Khách hàng](./src/Demo/Admin/Manage_Food.png)  
+>* Quản lý hóa đơn
+
+![Hóa đơn](./src/Demo/Admin/Manage_Food.png)  
+>* Quản Lý bàn
+
+![Ban](./src/Demo/Admin/Manage_Food.png)  
+
+>* Quản Lý Thực Đơn
+
+![MenuManage](./src/Demo/Admin/Manage_Food.png)  
+>* Quản Lý nguyên liệu
+
+![Nguyên Liệu](./src/Demo/Admin/Manage_Food.png)  
+>* Quản Lý nhập kho
+
+![Nhập kho](./src/Demo/Admin/Manage_Food.png)  
+>* Quản Lý xuất kho
+
+![Xuất kho](./src/Demo/Admin/Manage_Food.png) 
+
+>* Thống kê doanh thu
+
+![Statistic](./src/Demo/Admin/Statistic.png)
+>* Thống kê món ăn
+
+![Statistic món ăn](./src/Demo/Admin/Manage_Food.png)  
+
 # Ngôn ngữ, công nghệ sử dụng
 # Yêu cầu cài đặt
 # Hướng dẫn cài đặt chương trình
