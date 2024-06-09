@@ -85,7 +85,5 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 >* jcommon-1.0.23.jar
 # Hướng dẫn cài đặt chương trình
 # Tài liệu tham khảo
- - [Java Swing UI Design - Register and Verify Code With Email](https://github.com/DJ-Raven/java-swing-login-ui-001)
- - [Java Swing UI Design - School Management Dashboard](https://github.com/DJ-Raven/java-swing-school-management-dashboard)
- - [Java UI Design - Dashboard Desktop Application](https://github.com/DJ-Raven/java-ui-dashboard-008)
+- [Java UI Design - Dashboard Desktop Application](https://github.com/DJ-Raven/java-ui-dashboard-008))
 
