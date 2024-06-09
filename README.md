@@ -43,30 +43,30 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 ![Khách hàng](images/khachhang.png)  
 >* Quản lý hóa đơn
 
-![Hóa đơn](images/hóa don.png)  
+![Hóa đơn](images/hóadon.png)  
 >* Quản Lý bàn
 
 ![Ban](images/bàn.png)  
 
 >* Quản Lý Thực Đơn
 
-![MenuManage](images/mon án.png)  
+![MenuManage](images/monán.png)  
 >* Quản Lý nguyên liệu
 
 ![Nguyên Liệu](images/nguyenlieu.png)  
 >* Quản Lý nhập kho
 
 ![Nhập kho](images/nhapaj.png)  
->* Quản Lý xuất kho
 
-![Xuất kho](images/xuất kho.png) 
+>* Quản Lý xuất kho
+![Xuất kho](images/xuấtkho.png) 
 
 >* Thống kê doanh thu
 
-![Statistic](images/tk doanh thu.png)
+![Statistic](images/tkdoanhthu.png)
 >* Thống kê món ăn
 
-![Statistic món ăn](images/tkmon ắn.png)  
+![Statistic món ăn](images/tkmonắn.png)  
 
 # Ngôn ngữ, công nghệ sử dụng
 # Yêu cầu cài đặt
