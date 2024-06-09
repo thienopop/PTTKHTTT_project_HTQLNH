@@ -43,7 +43,7 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 ![Khách hàng](images/khachhang.png)  
 >* Quản lý hóa đơn
 
-![Hóa đơn](images/haadon.png)  
+![Hóa đơn](images/hoadon.png)  
 >* Quản Lý bàn
 
 ![Ban](images/bàn.png)  
