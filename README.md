@@ -33,40 +33,40 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 ![SignIn](./src/Demo/SignIn.png)
 >* Giao diện chính
 
-![Home](./src/Demo/Admin/Manage_Food.png)  
+![Home](images/home.png)  
 
 >* Quản lý nhân viên
 
-![Nhân viên](./src/Demo/Admin/Manage_Food.png)  
+![Nhân viên](images/nhânvine.png)  
 >* Quản lý khách hàng
 
-![Khách hàng](./src/Demo/Admin/Manage_Food.png)  
+![Khách hàng](images/khachhang.png)  
 >* Quản lý hóa đơn
 
-![Hóa đơn](./src/Demo/Admin/Manage_Food.png)  
+![Hóa đơn](images/hóa don.png)  
 >* Quản Lý bàn
 
-![Ban](./src/Demo/Admin/Manage_Food.png)  
+![Ban](images/bàn.png)  
 
 >* Quản Lý Thực Đơn
 
-![MenuManage](./src/Demo/Admin/Manage_Food.png)  
+![MenuManage](images/mon án.png)  
 >* Quản Lý nguyên liệu
 
-![Nguyên Liệu](./src/Demo/Admin/Manage_Food.png)  
+![Nguyên Liệu](images/nguyenlieu.png)  
 >* Quản Lý nhập kho
 
-![Nhập kho](./src/Demo/Admin/Manage_Food.png)  
+![Nhập kho](images/nhapaj.png)  
 >* Quản Lý xuất kho
 
-![Xuất kho](./src/Demo/Admin/Manage_Food.png) 
+![Xuất kho](images/xuất kho.png) 
 
 >* Thống kê doanh thu
 
-![Statistic](./src/Demo/Admin/Statistic.png)
+![Statistic](images/tk doanh thu.png)
 >* Thống kê món ăn
 
-![Statistic món ăn](./src/Demo/Admin/Manage_Food.png)  
+![Statistic món ăn](images/tkmon ắn.png)  
 
 # Ngôn ngữ, công nghệ sử dụng
 # Yêu cầu cài đặt
