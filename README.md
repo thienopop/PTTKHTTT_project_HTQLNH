@@ -11,7 +11,7 @@
 | 22521395| Trịnh Xuân Thiện | 100% |
 |  | Lý Huỳnh Ngọc Trung | 100% |
 # Mô hình ERD
-![Đây là một hình ảnh]("C:\Users\84889\Downloads\ERD_3.png")
+![Đây là một hình ảnh]("home.png")
 # Chức năng chính trong ứng dụng
 # Demo sản phẩm
 # Ngôn ngữ, công nghệ sử dụng
