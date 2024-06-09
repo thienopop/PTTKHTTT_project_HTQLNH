@@ -14,30 +14,14 @@ Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nh
 # Mô hình ERD
 ![Đây là một hình ảnh]("https://github.com/thienopop/PTTKHTTT_project_HTQLNH/commit/2a8ef8ff46d291cee3bcdc5cd8b9b7ca7d0f5951")
 # Chức năng chính trong ứng dụng
-### Tìm kiếm thông tin
-o	Tìm kiếm thông tin nhân viên
-o	Tìm kiếm thông tin khách hàng
-o	Tìm kiếm thông tin menu
-o	Tìm kiếm hóa đơn
-### Quản lý đặt bàn, thanh toán
-o	Thêm hóa đơn, xóa, sửa, cập nhật thông tin hóa đơn
-o	Thêm một chi tiết hóa đơn vào hóa đơn
-o	Thanh toán: tính toán số tiền của đơn hàng
-### Quản lý nhân viên
-o	Thêm, xóa sửa thông tin nhân viên
- Quản lý khách hàng
-o	Đăng ký thông tin cho khách hàng
-o	Xóa các khách hàng
-o	Cập nhật thông tin cho khách hàng
-### Quản lý thực đơn
-o	Thêm món ăn vào thực đơn, xóa sửa thông tin món ăn
-### Quản lý kho
--o	Nhập, xuất nguyên liệu vào kho
--o	Thanh toán phiếu nhập xuất
--o	Hiển thị danh sách nguyên liệu trong kho
-### Báo cáo thông kê
-o	Thống kê doanh thu theo tháng năm
-o	Thống kê các món ăn bán chạy
+> * Đăng nhập
+> * Đăng ký tài khoản
+> * Quản lý đặt bàn, thanh toán
+> * Quản lý nhân viên
+> * Quản lý khách hàng
+> * Quản lý thực đơn
+> * Quản lý kho
+> * Báo cáo thông kê
 # Demo sản phẩm
 # Ngôn ngữ, công nghệ sử dụng
 # Yêu cầu cài đặt
