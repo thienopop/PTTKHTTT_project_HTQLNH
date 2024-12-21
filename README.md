@@ -1,28 +1,23 @@
-# HỆ THỐNG QUẢN LÝ NHÀ HÀNG
+# Web bán nước hoa
 ![hình ảnh](images/home1.png)
 ## Lời cảm ơn
 ## Giới thiệu đồ án
 
 # Mục tiêu của đề tài
-Xây dựng một hệt hống nhà hàng, gồm các chức năng quản lý nhân sự, quản lý khách hàng, quản lý kho hàng, quản lý xuất/nhập kho, quản lý menu, hóa đơn thanh toán... Xây dựng ứng dụng thân thiện với người dùng, có đủ các chức năng thống kê về doanh thu, món ăn để chủ nhà hàng có thể giám sát thuận tiện nhất.
+Xây dựng một nền tảng bán nước hoa trực tuyến, giao diện thân thiện, sinh động, sản phẩm chất lượng, phù hợp, đặt trải nghiệm của khách hàng lên hàng đầu.
 # Nhóm sinh viên thực hiện
 | MSSV | Họ tên | Đánh giá|
 |-------|-------|-------|
 | 22521395| Trịnh Xuân Thiện | 100% |
-|  | Lý Huỳnh Ngọc Trung | 100% |
-|  | Nguyễn Văn Thái Mạnh | 100% |
-|  | Nguyễn Đăng Khoa | 100% |
+|  22521558  | Lý Huỳnh Ngọc Trung | 100% |
+| 22521381 | Đặng Ngọc Thiên | 100% |
+| 22520693 | Vũ Đăng Khoa | 100% |
 # Mô hình ERD
 ![Đây là một hình ảnh](images/ẻd.drawio.png)
 # Chức năng chính trong ứng dụng
 > * Đăng nhập
 > * Đăng ký tài khoản
-> * Quản lý đặt bàn, thanh toán
-> * Quản lý nhân viên
-> * Quản lý khách hàng
-> * Quản lý thực đơn
-> * Quản lý kho
-> * Báo cáo thông kê
+
 # Demo sản phẩm
 
 >* Đăng Ký
